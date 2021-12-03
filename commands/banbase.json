@@ -1,0 +1,12 @@
+{
+    "user": [
+        ""
+    ],
+    "commands": {
+        "universal": [],
+        "cg-ping": [],
+        "consolelog": [],
+        "fibonacci": [],
+        "random": []
+    }
+}

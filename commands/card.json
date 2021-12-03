@@ -1,0 +1,856 @@
+{
+  "rarityIndex":["1" , "2" , "3" , "4" , "5" , "2" , "3" , "4" , "5" , "2" , "3" , "4" , "5", "3" , "4" , "5", "3" , "4" , "5", "4" , "5", "4" , "5", "4" , "5", "4" , "5", "4" , "5", "5", "5", "5", "5", "5", "5", "5", "5", "5", "5", "5", "5", "5", "5"],
+
+  "rarityKey":["legArray","epicArray","rareArray","unCArray","commonArray"],
+
+  "rarityColor":["#ffd700" , "#9a00ab" , "#005dc8" , "#19bb03" , "#797979"],
+
+  "rarityName":["Legendary" , "Epic" , "Rare" , "Uncommon" , "Common"],
+
+
+  "legArray":["#AU002" , "#AU003"],
+  "epicArray":["#AU001" , "#AU004" , "#AU005" , "#AU008" , "#AU009" , "#AU011" , "#AU012" , "#AU013" , "#AU016" , "#AU017"],
+  "rareArray":["#AU006" , "#AU010", "#AU014" , "#AU015" , "#AU018" , "#AU019", "#AC002" , "#AC003" , "#AC004" , "#AC005" , "#AC006" , "#BC002" , "#BC005" , "#BC009" , "#BC012" , "#BC015" , "#BC016" , "#BC019" ,"#AU020" , "#AU021"],
+  "unCArray":["#BC004" , "#BC006" , "#BC008" , "#BC011" , "#BC014" , "#BC017" , "#BC022" , "#BC023" , "#BC024"],
+  "commonArray": ["#BC001" , "#BC003" , "#BC007" , "#BC010" , "#BC013" , "#BC018" , "#BC020" , "#BC021"],
+
+
+
+  "card":{
+    "#AU000":{
+      "cardname":"TGR" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/698076494131625995/731641899349180426/Logo45fps.gif",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Test Card. Made for Testing.",
+      "series":"Series-Null (System Prototype)"
+
+    },
+    "#AU001":{
+      "cardname":"Crimson",
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536894771265536/AU001.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc":"First Card ever made for TGR-TCG as a prototype. Introduced in Series-A on 1st August 2021. First Epic Card.",
+      "series":"Series-A",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    },
+    "#AU002":{
+      "cardname":"Mission Vao" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536896347144252/AU002.png",
+      "rarity":"Legendary",
+      "rarityIndexNo": "0",
+      "cardDesc": "Introduced in Series-A on 1st August 2021 , First Public-Prototype and First Legendary Card.",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU003":{
+      "cardname":"Windu" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865554180113432596/AU003.png",
+      "rarity":"Legendary",
+      "rarityIndexNo": "0",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU004":{
+      "cardname":"ADI" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865538284775276544/AU004.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Foundation <:foundationEmblem:866643130735263744>"
+    
+    },
+    "#AU005":{
+      "cardname":"Kifo" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865561957926174760/AU004.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU006":{
+      "cardname":"Ki-Adi" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536919987552276/AU006.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021. First Rare Card.",
+      "series":"Series-A",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+
+    },
+    "#AU007":{
+      "cardname":"Thibson" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536917201092648/AU007.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass": "Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#AU008":{
+      "cardname":"Chad Thundercock" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536926626611200/AU008.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU009":{
+      "cardname":"Fox" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536919949410365/AU009.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    "#AU010":{
+      "cardname":"Wolffe" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536922273316884/AU010.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU011":{
+      "cardname":"Shaak" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536938910679090/AU011.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU012":{
+      "cardname":"Echo" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536936918777876/AU012.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU013":{
+      "cardname":"Jabba" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536942752923658/AU013.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#AU014":{
+      "cardname":"Neyo" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536941486768168/AU014.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    "#AU015":{
+      "cardname":"Thrawn" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536944107421736/AU015.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#AU016":{
+      "cardname":"Flare" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536950467690506/AU016.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+
+    
+    },
+    "#AU017":{
+      "cardname":"Eeth" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536951096836126/AU017.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU018":{
+      "cardname":"Nillie" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536953431752734/AU018.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series":"Series-A",
+      "cardClass": "Foundation <:foundationEmblem:866643130735263744>"
+    
+    },
+    "#AU019": {
+      "cardname": "Valk",
+      "cardimage": "https://cdn.discordapp.com/attachments/864505149166583819/869516246058684426/AU019.png",
+      "rarity": "Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series": "Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    },
+    "#AU020": {
+      "cardname": "HavoK",
+      "cardimage": "https://cdn.discordapp.com/attachments/864505149166583819/870599297664704562/AU020.png",
+      "rarity": "Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021",
+      "series": "Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    },
+
+    "#AC001":{
+      "cardname":"Palpatine" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/865536895157272576/AC001.png",
+      "rarity":"Legendary-Mythic ||Unattainable by +add-card||",
+      "rarityIndexNo": "0",
+      "cardDesc": "Introduced in Series-A on 1st August 2021. The Most powerful card to exist as of Series B.",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#AU021":{
+      "cardname":"Kes" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516259790843934/AU021.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021. ",
+      "series":"Series-A",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    
+    "#AC002":{
+      "cardname":"Jango Fett" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516242988453948/AC002.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021. ",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    
+    "#AU023":{
+      "cardname":"Darth Kermit" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516275888554064/AU023.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-A on 1st August 2021. ",
+      "series":"Series-A",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+
+    "#AU022":{
+      "cardname":"M a r g" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516262135459860/AU022.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Foundation <:foundationEmblem:866643130735263744>"
+    
+    },
+
+    "#BC001":{
+      "cardname":"Thexan" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516279395000371/BC001.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021. First Common Card",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC002":{
+      "cardname":"Senya" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516279726370846/BC002.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Foundation <:foundationEmblem:866643130735263744>"
+    
+    },
+    "#BC003":{
+      "cardname":"Darth Ludicium" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869561689362812948/BC003.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC004":{
+      "cardname":"Darth Excors" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516294146383932/BC004.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021. First Uncommon Card",
+      "series":"Series-B",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#BC005":{
+      "cardname":"Darth Contemption" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516295891202058/BC005.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC006":{
+      "cardname":"Darth Darthious" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516307652046898/BC006.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC007":{
+      "cardname":"Darth D'Thraki" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516311108149288/BC007.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC008":{
+      "cardname":"Darth Nebarius" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516313314353182/BC008.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC009":{
+      "cardname":"Darth Meræ" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516323602956318/BC009.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC010":{
+      "cardname":"Darth Malleas" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516326438305812/BC010.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Foundation <:foundationEmblem:866643130735263744>"
+    
+    },
+    "#BC011":{
+      "cardname":"Bucky" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516325754658826/BC011.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC012":{
+      "cardname":"SCORPIO" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869516329261092874/BC012.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#BC013":{
+      "cardname":"Lady Vaylin" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869163022286898/BC013.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC014":{
+      "cardname":"Almec" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869164158918686/BC014.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    "#BC015":{
+      "cardname":"Marcus" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869165543030784/BC015.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC016":{
+      "cardname":"Darth(Formerly) Maul" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869168349032458/BC016.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#BC017":{
+      "cardname":"Ordo" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869173248000050/BC017.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC018":{
+      "cardname":"Mand'alor the Reclaimer" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869177756872714/BC018.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    
+    "#BC019":{
+      "cardname":"Del'Gor Saxon" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869175848460338/BC019.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC020":{
+      "cardname":"Skragg" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869178453106758/BC020.png",
+      "rarity":"Common",
+      "rarityIndexNo": "4",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC021":{
+      "cardname":"Cad Bane" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869209864261662/BC021.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+    "#BC022":{
+      "cardname":"Hondo Ohnaka" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869203748945921/BC022.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    "#BC023":{
+      "cardname":"CC-5052 Bly" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869179027722250/BC023.png",
+      "rarity":"Uncommon",
+      "rarityIndexNo": "3",
+      "cardDesc": "Introduced in Series-B on 1st August 2021.",
+      "series":"Series-B",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    
+    },
+
+
+    "#BC024":{
+      "cardname":"Emperor Valkorion" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/869869208941527040/BC024.png",
+      "rarity":"Epic",
+      "rarityIndexNo": "1",
+      "cardDesc": "Introduced in Series-B on 1st August 2021. ",
+      "series":"Series-A",
+      "cardClass":"Kharnate <:kharnateEmblem:866643129112068106>"
+    
+    },
+    "#BC025":{
+      "cardname":"HaVoK Vizsla" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/870230343859437618/BC005.png",
+      "rarity":"Rare",
+      "rarityIndexNo": "2",
+      "cardDesc": "Introduced in Series-B on 1st August 2021. ",
+      "series":"Series-A",
+      "cardClass":"Marauder <:marauderEmblem:866643129850658826>"
+    
+    },
+
+
+    "#CA1":{
+      "cardname":"A-Series Pack Cover" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/864505227726422046/ASERIESCOVER.png",
+      "rarity":"Mythic(Unattainable by +add-card)",
+      "rarityIndexNo": "0",
+      "cardDesc": "Introduced as the A-Series Cover on 1st August 2021. Players get awarded this after collecting all of the A-Series Cards.",
+      "series":"Series-A",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    "#CB1":{
+      "cardname":"B-Series Pack Cover" ,
+      "cardimage":"https://cdn.discordapp.com/attachments/864505149166583819/864505236071907338/BSERIESCOVER.png",
+      "rarity":"Mythic(Unattainable by +add-card)",
+      "rarityIndexNo": "0",
+      "cardDesc": "Introduced as the B-Series Cover on 1st August 2021. Players get awarded this after collecting all of the B-Series Cards",
+      "series":"Series-B",
+      "cardClass":"Bulwark <:bulwarkEmblem:866643129292292108>"
+    
+    },
+    "#GU001": {
+            "cardname": "Cookster",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Epic",
+            "rarityIndexNo": "1",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU002": {
+            "cardname": "Skeleton",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU003": {
+            "cardname": "Flauros",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU004": {
+            "cardname": "Sion",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU005": {
+            "cardname": "Grumb Hill",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU006": {
+            "cardname": "Kam/Kraken",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU007": {
+            "cardname": "Wat Tambor",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Epic",
+            "rarityIndexNo": "1",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU008": {
+            "cardname": "PHROG",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU009": {
+            "cardname": "Falcon",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GU010": {
+            "cardname": "Bones",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC001": {
+            "cardname": "Count Dooku",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "3",
+            "rarityIndexNo": "Uncommon",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC002": {
+            "cardname": "General Grevious",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC003": {
+            "cardname": "Assaj Ventress",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC004": {
+            "cardname": "Darth Sion",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC005": {
+            "cardname": "Darth Malgus",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC006": {
+            "cardname": "Admiral Trench",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC007": {
+            "cardname": "Darth Jar Jar",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC008": {
+            "cardname": "Sora Bulq",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Rare",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC009": {
+            "cardname": "KkkT the Mustafarian",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC010": {
+            "cardname": "Alto Stratus",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC011": {
+            "cardname": "Generic Dark Acolyte Mandalorian Slave",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Epic",
+            "rarityIndexNo": "2",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC012": {
+            "cardname": "Generic B1 Battle Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC013": {
+            "cardname": "Generic B2 Super Battle Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC014": {
+            "cardname": "Generic B3 Ultra Battle Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC015": {
+            "cardname": "Generic Droideka",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC101": {
+            "cardname": "Generic T Series Tactical Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC102": {
+            "cardname": "Generic ST Series Super Tactical Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC103": {
+            "cardname": "Generic IG-100 Magnaguard",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC104": {
+            "cardname": "Generic EG-5 Jedi Hunter Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Uncommon",
+            "rarityIndexNo": "3",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#GC105": {
+            "cardname": "Generic Aqua Droid",
+            "cardimage": "https://i.redd.it/0sgg7cqr6c971.jpg",
+            "rarity": "Common",
+            "rarityIndexNo": "4",
+            "cardDesc": "Introduced in Series-G on the 14th of August.",
+            "series": "G-Series",
+            "cardClass": "** **"
+        },
+        "#CG1": {
+            "cardname": "G-Series Pack Cover",
+            "cardimage": "https://cdn.discordapp.com/attachments/805731263931088906/875394553471963176/0_GSERIESCOVER.png",
+            "rarity": "Mythic(Unattainable by +add-card)",
+            "rarityIndexNo": "0",
+            "cardDesc": "Introduced as the G-Series Cover on 21st August 2021. Players get awarded this after collecting all of the G-Series Cards",
+            "series": "Series-G",
+            "cardClass": "Bulwark <:bulwarkEmblem:866643129292292108>"
+        }
+
+
+    
+  },
+
+
+
+  "user":{
+    
+    
+  }
+
+
+
+}
+
+
+
+
+

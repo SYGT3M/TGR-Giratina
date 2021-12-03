@@ -1,0 +1,211 @@
+{
+    "ships": {
+        "venator": {
+            "shipName": "Venator",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/e/ec/Venator_clonewars.jpg/revision/latest?cb=20110918171254",
+            "shipDesc": "The Venator-class Star Destroyer has a wide areay of hangar space, ten engines with three different sizes, and are powerful enough to go head to head with a Lucrehulk-class Battleship when ramming. Along with the impressive amounts of starfighters there are also several gunships, shuttles and ground vehicles onboard a Venator.",
+            "shipArma": "8 Heavy TurboLasers, 2 Medium TurboLaser Cannons, 54 Point Defense Laser Turrets, 4 Proton Torpedo Launchers, 6 Tractor Beam Projectors",
+            "shipLength": "1,137 Meters",
+            "shipComp": "120 ARC-170s, 60 Y-Wings, 48 LAAT, 48 AT-TE",
+            "shipCost": "3"
+        },
+        "tc-venator": {
+            "shipName": "TC Venator",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/e/ec/Venator_clonewars.jpg/revision/latest?cb=20110918171254",
+            "shipDesc": "This alternate version of the Venator-class Republic Attack Cruiser has turbolasers capable of orbital bombardment, comes with a different compliment, and can carry more troops.",
+            "shipArma": "10 Heavy TurboLaser Turrets, 4 Medium Dual TurboLaser Cannons, 64 Point Defense Laser Turrets, 6 Proton Torpedo Launchers, 8 Tractor Beam Projectors, SPHA-T Beam Weapon",
+            "shipLength": "1,137 Meters",
+            "shipComp": "192 ARC-170s, 12 Jedi Starfighters, 36 V-19 Torrents, 24 AT-TEs, 48 LAAT",
+            "shipCost": "3"
+        },
+        "acclamator-i": {
+            "shipName": "Acclamator I",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/f/fe/Acclamator_I_ships.png/revision/latest?cb=20200731062357",
+            "shipDesc": "The Acclamator I-class assault ship was used by the Republic to land their troops on the planets.",
+            "shipArma": "12 Quad TurboLaser Turrets, 24 Point Defense Turrets, 4 Missile Launch Tubes, 100 Proton Torpedoes, 20 Concussion Missiles each",
+            "shipLength": "752 Meters",
+            "shipComp": "48 LAAT, 24 AT-TE, 24 SPHA-T",
+            "shipCost": "2"
+        },
+        "acclamator-ii": {
+            "shipName": "Acclamator II",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/9/9e/Acclamator-CotR.png/revision/latest/scale-to-width-down/500?cb=20191214033405",
+            "shipDesc": "The Acclamator II-class was designed primarily to carry out orbital bombardments, and as such its troop complement was reduced by nearly eighty percent in order to make room for the added weaponry.",
+            "shipArma": "30 TurboLasers, 4 Proton Torpedo Launchers, 150 Proton Torpedoes",
+            "shipLength": "752 Meters",
+            "shipComp": "64 Speeder Bikes, 12 AT-TE, 12 LAAT, 8 SPHA-T",
+            "shipCost": "2"
+        },
+        "victory-i": {
+            "shipName": "Victory II",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/9/90/VSD-SWR.png/revision/latest?cb=20120613095326",
+            "shipDesc": "The Victory I-class Star Destroyer, also known as the Victory I-class Destroyer and Victoria I-class Star Destroyer, was a warship designed for planetary defense, planetary assault, ground troop support, and ship-to-ship combat.",
+            "shipArma": "10 Quad TurboLaser batteries, 40 Double TurboLaser batteries, 80 Concussion Missiles Tubes, and 10 Tractor Beam Projectors",
+            "shipLength": "900 Meters",
+            "shipComp": "24 ARC-170s, 12 AT-TE, 12 LAAT, 8 SPHA-T",
+            "shipCost": "2"
+        },
+        "legacy": {
+            "shipName": "Legacy",
+            "shipImage": "https://media.moddb.com/images/mods/1/30/29805/Legacy_Star_Destroyer.png",
+            "shipDesc": "The Legacy-class Star Destroyer was the pure battleship of the Republic and not designed to fulfill the role of a carrier, unlike the Venator. Being best described as a battleship/command ship, the Legacy Star Destroyer was larger, more heavily armored, and carried superior firepower to anything of its time.",
+            "shipArma": "12 Quad TurboLaser batteries, 10 Medium TurboLaser Batteries, 10 Ion Cannons, 2 Heavy Ion Cannons, 10 Torpedo Tubes, 60 Point Defense Turrets",
+            "shipLength": "1400 Meters",
+            "shipComp": "42 V-19 Torrents",
+            "shipCost": "4"
+        },
+        "arquintens": {
+            "shipName": "Arquintens",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/1/16/Republic_Arquitens_cruisers_BF2.png/revision/latest/scale-to-width-down/500?cb=20200526144857",
+            "shipDesc": "The Arquitens-class were built on a broad, kite-shaped hull, in line with the Kuat Drive Yards triangular design motif that was also reflected in its contemporaries, the Venator and Acclamator-classes. It was set apart, however, by its three powerful engines , as well as its two forward spars cleaved into the triangular bow.",
+            "shipArma": "6 Twin TurboLaser batteries, 6 Torpedo Launchers, 6 Heavy Quad Laser Cannons, 6 Concussion Missiles, 1 Ventral Laser Cannon",
+            "shipLength": "325 Meters",
+            "shipComp": "None",
+            "shipCost": "1"
+        },
+        "mandator-i": {
+            "shipName": "Mandator I",
+            "shipImage": "https://pm1.narvii.com/6935/9c1bbcfb252feb0167c1c77661591b4b93e29ad3r1-1920-1080v2_uhq.jpg",
+            "shipDesc": "The Mandator-class Star Dreadnaught was a warship produced by Kuat Driveyards to defend their home planet.",
+            "shipArma": "2,400 TurboLaser batteries, 2,400 Ion Cannons, 2 Heavy Ion Cannons, 200 Torpedo Tubes, 200 Concussion Missile Tubes",
+            "shipLength": "8000 Meters",
+            "shipComp": "192 Z-95 Headhunters, 456 Delta-7 Starfighters, 420 V-19 Torrent, 840 LAAT, 156 AT-TE, 84 SPHA-T",
+            "shipCost": "288"
+        },
+        "mandator-ii": {
+            "shipName": "Mandator II",
+            "shipImage": "https://media.discordapp.net/attachments/748871571749339169/749376153726222497/iu.png",
+            "shipDesc": "Designed and built by Kuat Drive Yards to protect the ship yards of Kuat and other Core worlds from the CIS, the first Mandator II was the pride and joy of the Kuat engineers.",
+            "shipArma": "6,000 TurboLaser batteries, 6,000 Ion Cannons, 500 Torpedo Tubes, 500 Concussion Missile Tubes",
+            "shipLength": "19,000 Meters",
+            "shipComp": "576 Z-95 Headhunters, 1138 Delta-7 Starfighters, 1008 V-19 Torrents, 2016 LAAT, 420 AT-TE, 216 SPHA-T",
+            "shipCost": "700"
+        },
+        "valor": {
+            "shipName": "Valor",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/d/d4/Torcapship.jpg/revision/latest/scale-to-width-down/250?cb=20100917213637",
+            "shipDesc": "The Valor-class cruiser, also known as a D-Class attack cruiser, served in the Republic Navy during the Great Galactic War and the subsequent Cold War. Recovered by Hawkbat Battalion from Ord Mantell, these fine ships get to see the light of day again. The ship design had a bulbous center section, with gun batteries covering the front, sides and stern, seven thrusters located on a ventral tower and a command tower on the dorsal side. Lining the sides of each ship were several hangars. In addition, one hangar was located on the dorsal hull, facing the 'valley' in the middle of the craft.",
+            "shipArma": "32 Turbolaser Batteries, 2 Quad-TurboLaser turrets, 2 Ion Cannons, 10 Proton Torpedo Launchers, 4 Concussion Missile Launchers, 4 Ion Torpedo Launchers",
+            "shipLength": "730 Meters",
+            "shipComp": "110 ARC-170s starfighters, 40 Y-Wing Bombers, 25 Nu-class Republic Attack Shuttles",
+            "shipCost": "2"
+        },
+        "hammerhead": {
+            "shipName": "Hammerhead",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/2/2d/Endarconcept.jpg/revision/latest/scale-to-width-down/500?cb=20080624043154",
+            "shipDesc": "The Hammerhead-class cruiser was a type of warship used by the Republic Navy during the Old Sith Wars, the Mandalorian Wars, and the New Sith Wars. One of the most successful warship designs in galactic history.",
+            "shipArma": "4 Dual Light Turbolaser Batteries, 2 Medium Turbolaser Batteries, 2 Point-Defense Batteries, 1 Tractorbeam Battery",
+            "shipLength": "315 Meters",
+            "shipComp": "12 ARC-170s, 2 Nu-class Republic Attack Shuttles",
+            "shipCost": "1"
+        },
+        "thranta": {
+            "shipName": "Thranta",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/f/fa/Thranta-class_warship_GGW.jpg/revision/latest/scale-to-width-down/500?cb=20180817162044",
+            "shipDesc": "The ship class was similar in appearance to the earlier Praetorian-class frigate and Hammerhead-class cruiser models. The Thranta-class was the workhorse of the Republic Navy, being produced in large numbers to compete with the Hammerhead-class cruiser of the Jedi Civil War and replace the Praetorian-class frigate of the Great Sith War.",
+            "shipArma": "4 Twinmounted Turbolaser canonons, 4 Ion Cannons, 20 Concussion Missiles",
+            "shipLength": "385 Meters",
+            "shipComp": "12 ARC-170s, 12 Y-Wings",
+            "shipCost": "1"
+        },
+        "recusant": {
+            "shipName": "Recusant",
+            "shipImage": "https://vignette.wikia.nocookie.net/thelastofthedroids/images/4/45/Recusant-class_light_destroyer.png/revision/latest?cb=20141006215237",
+            "shipDesc": "A model of destroyer that saw service with the Commerce Guild. The true effectiveness of the ship was shown when it was deployed in large numbers. Four to six Recusant-class starships could outgun the Galactic Republic Venator-class Star Destroyer or the Victory-class Star Destroyer.",
+            "shipArma": "5 Heavy TurboLaser Cannons, 6 Heavy TurboLaser Turrets, 5 TurboLaser Cannons, 102 Point Defense Turrets",
+            "shipLength": "1187 Meters",
+            "shipComp": "144 Vulture Droids, 48 Hyena Bombers, 12 C-9979 Landing Craft",
+            "shipCost": "3"
+        },
+        "munificent": {
+            "shipName": "Munificent",
+            "shipImage": "https://preview.redd.it/mom420c3cdg41.png?width=340&format=png&auto=webp&s=beb103f18920b0ff01f6a2e3c388464bc97d95fc",
+            "shipDesc": "The Munificent-class star frigate, also known as the Munificent-class star Banking Clan frigate, Munificent-class heavy frigate, Separatist frigate or Banking Clan frigate, was a warship used by the Confederacy of Independent Systems during the Clone Wars.",
+            "shipArma": "2 Heavy TurboLaser Cannons, 2 Heavy Ion Cannons, 26 Twin Light TurboLaser Cannons, 20 Light TurboLaser Turrets, 40 Point Defense Turrets, 8 Flak Guns, 1 Hyperwave Jammer",
+            "shipLength": "825 Meters",
+            "shipComp": "48 Vulture Droids, 12 Hyena Bombers",
+            "shipCost": "2"
+        },
+        "providence": {
+            "shipName": "Providence",
+            "shipImage": "https://vignette.wikia.nocookie.net/starwars/images/f/f1/Invincible-TCWs2BR3.png/revision/latest?cb=20200312140900",
+            "shipDesc": "Designed by the Quarren Free Dac Volunteers Engineering Corps, the rounded, pseudo-organic aesthetic capital ships, influenced by the planet Dac, would be echoed in the design of the later Mon Calamari Star Cruisers. The ships were operated by 600 droids, but commanded by sentient officers.",
+            "shipArma": "14 Quad TurboLaser Cannons, 34 Dual Laser Cannons, 2 Heavy Ion Cannons, 102 Proton Torpedo Tubes, 8 Tractorbeam Projectors",
+            "shipLength": "1088 Meters",
+            "shipComp": "102 Vulture Droids, 120 Droid TriFighters, 12 Hyena Bombers",
+            "shipCost": "3"
+        },
+        "lucrehulk": {
+            "shipName": "Lucrehulk",
+            "shipImage": "https://vignette.wikia.nocookie.net/battlefront/images/b/bb/Trade_federation_battlecruiser.png/revision/latest?cb=20171118120140",
+            "shipDesc": "The Lucrehulk-class battleship was the primary capital ship of the Trade Federation Trade Defense Force. Most Lucrehulks were modified from enormous cargo haulers. Upgraded and modified versions were later used by the CIS Navy",
+            "shipArma": "42 Quad TurboLaser Batteries",
+            "shipLength": "2425 Meters",
+            "shipComp": "1500 Vulture Droids, 132 TriFighters, 24 Hyena Bombers",
+            "shipCost": "4"
+        },
+        "subjugator": {
+            "shipName": "Subjugator",
+            "shipImage": "https://pbs.twimg.com/media/Dj3xKchW4AADnsf.jpg",
+            "shipDesc": "The Subjugator-class heavy cruiser was a type of 4,845 meter-long vessel. It was four times longer than a Galactic Republic Venator-class Star Destroyer, had an internal rail jet system for the movement of troops and supplies, and was crewed by 900 battle droids.",
+            "shipArma": "500 TurboLaser Batteries, 400 Point Defense Turrets, 2 Mega-Ion Cannons",
+            "shipLength": "4485 Meters",
+            "shipComp": "1500 Vulture Droids, 132 TriFighters, 24 Hyena Bombers",
+            "shipCost": "4"
+        },
+        "kanjiklub": {
+            "shipName": "Kanjiklub",
+            "shipImage": "https://media.discordapp.net/attachments/715104386376007680/755855976653127800/0e01803d-348a-46d1-932f-0ef2971ca908.png",
+            "shipDesc": "This ship is made to go siege entire planets or destroy fleets. Multiple massive hangers, a massive droid factory capable of producing vehicles such as the supertank, 3 bridges across the ship, a fucking waterpark with multiple slides and a lazy river AND a wave pool, a sauna, a restaurant, and a personal residence and brewery for Dooku. The ion cannon weakness is long gone with this ship, and taking it down is going to be one hell of a fight.",
+            "shipArma": "5250 TurboLaser Batteries, 60 Point Defense Cannons, 2 Mega-Ion Cannons",
+            "shipLength": "15,000 Meters",
+            "shipComp": "4,000 Vulture Droids, 2,000 Hyena Bombers",
+            "shipCost": "570"
+        },
+        "raxus": {
+            "shipName": "Raxus",
+            "shipImage": "https://media.discordapp.net/attachments/715104386376007680/755843402670669914/0e01803d-348a-46d1-932f-0ef2971ca908_1.png?width=246&height=655",
+            "shipDesc": "A large droid factory, multiple large hangars, and two bridges, this ship is designed to strike fear into the enemies of the CIS. You�ll need to find another weakness this time, as the cannon weakness no longer exists.",
+            "shipArma": "2500 TurboLaser Batteries, 2 Mega-Ion Cannons, 25 Point Defense Cannons",
+            "shipLength": "10,000 Meters",
+            "shipComp": "3,000 Vulture Droids, 1,000 Hyena Bombers",
+            "shipCost": "390"
+        },
+        "alorir": {
+            "shipName": "Alorir Class Dreadnaught",
+            "shipImage": "https://media.discordapp.net/attachments/725521536630521876/742770570420158544/image_9.png",
+            "shipDesc": "The Alorir-class Dreadnought, Mando`a for Leader-class, was build by Kalevala Spaceworks. The Alorir was created to be the leading ship of a formation line. Due to its Ultra Heavy Forward Shielding and immense fire power in the front, it is the ideal line breaker of enemy formations and a ship killer at the same time.",
+            "shipArma": "175 Dawn Penta Heavy Turbolasers, 550+ Point Defence Systems, 200 Anti-capital Ship Missile Tubes, 250 Heavy Proton Torbedo Tubes",
+            "shipLength": "2,600 Meters",
+            "shipComp": "300 KS/D Kalevalan Star Defenders, 25 VTGS/VGS, 25 Canderous Tanks, 50 Kalevala Spaceworks Long Range Artillery Units",
+            "shipCost": "80"
+        },
+        "shadow-i": {
+            "shipName": "Shadow I Class Star Destroyer",
+            "shipImage": "https://media.discordapp.net/attachments/725521536630521876/742770570420158544/image_9.png",
+            "shipDesc": "The Shadow I-class is being produced at Dawn Drive Shipyards. It earned its name by being the first Dawn Drive Capital Ship to use a fuctioning Stealth Cloak. The Ship is is equiped with new tech like the Seismic Activity Shield (SAS) which effectively neutralises any seismic charge and orbital strike cannons. It has a huge complement of new fighters and the new generation of bombers, The Charger Fighter. The Seismic Activity Shield and Charger Fighter are standard equipment for all other capital ships of Dawn Drive Shipyard.",
+            "shipArma": "5 Concord Orbital Strike Cannons, 70 Dawn Penta Heavy Turbolasers, 300 Point Defence Systems, 100 Anti-capital Ship Missile Tubes, 50 Heavy Proton Torbedo Tubes",
+            "shipLength": "1600 Meters",
+            "shipComp": "50 Charger Fighters, 150 Agile Star Fighters, 50 Solar Interceptors, 5 Curvus Shuttles, 20 VTGS / VGS Gunships",
+            "shipCost": "4"
+        },
+        "resurrect": {
+            "shipName": "Resurrect Class Star Dreadnaught",
+            "shipImage": "https://media.discordapp.net/attachments/707656543029690479/744571338877829190/01d0429b-f3c9-4da9-a780-37cf6bc23d66.png?width=335&height=654",
+            "shipDesc": "The Resurrect SSD is the heart of every fleet. Due to its length it can defend other capital ships with ease. It is very fast for its size and has a very dense armament. Its complement is enough to fully eradicate a small fleet. Additionally with 3 Command centres it is extremely safe to operate at any time. It can single handedly glass an entire planet and is stronger, faster and more agile than most other SSDs.",
+            "shipArma": "50 Concord Orbital Strike Cannons, 900 Dawn Penta Heavy Turbolasers, 2500 Point Defence Systems, 300 Anti-capital Ship Missile Tubes, 225 Heavy Proton Torpedo Tubes",
+            "shipLength": "5,500 Meters",
+            "shipComp": "250 Charger Fighters, 500 Agile Starfighters, 250 Solar Interceptors, 25 Corvus Shuttles, 55 VTGS / VGS Gunships",
+            "shipCost": "180"
+        },
+        "ban`ro": {
+            "shipName": "Ban`ro Class Dreadnaught",
+            "shipImage": "https://media.discordapp.net/attachments/725521536630521876/742770570420158544/image_9.png",
+            "shipDesc": "The Ban`ro was designed by Dawn Drive Shipyards to be a front line Tanker and Dealer.With his length and heavy shields he is optimal for his job.He helps smaller ships to properly defend themselves with his complement of fighters and defence systems.Even the Ban`ro has a stealth cloak which enables it to pince and enemy from behind or flanking them in unforeseen manuvers.",
+            "shipArma": "85 Dawn Penta Heavy Turbolasers, 350+ Point Defence Systems, 150 Anti-capital Ship Missile, Tubes 100 Heavy Proton Torbedo Tubes",
+            "shipLength": "2000 Meters",
+            "shipComp": "250 Agile Starfighter, 100 Solar Interceptor, 50 VTGS/VGS, 10 Canderous-class Assault tank, 30 Kalevala Spaceworks Long Range Artillery Unit",
+            "shipCost": "6"
+        }
+    }
+}
